@@ -1,77 +1,138 @@
-
-<!--
-  AMIRALI SETAREH — CYBERPUNK GITHUB PROFILE
-  Replace optional placeholders before publishing.
--->
-
+ 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:101827,100:00F5FF&height=220&section=header&text=AMIRALI%20SETAREH&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%2F%2F%20SYSTEM%20ONLINE&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="Cyberpunk profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:101827,100:00F5FF&height=220&section=header&text=AMIRALI%20SETAREH&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER%20%2F%2F%20AI%20%2F%2F%20SYSTEMS%20%2F%2F%20BUILDING%20THE%20FUTURE&descSize=12&descAlignY=58&animation=fadeIn" width="100%" alt="Amirali Setareh — Developer Profile"/>
 
 <a href="https://github.com/amiralisetareh">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=SOFTWARE+DEVELOPER;BUILDING+IDEAS+INTO+SOFTWARE;EXPLORING+TECHNOLOGY+%26+OPEN+SOURCE;SYSTEM+STATUS%3A+ONLINE" alt="Animated developer introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=SOFTWARE+DEVELOPMENT;BUILDING+TRAPFARSI;EXPLORING+AI+%26+ROBOTICS;DESIGNING+DIGITAL+WORLDS;LEARN.+BUILD.+ITERATE." alt="Developer introduction"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/ROLE-SOFTWARE%20DEVELOPER-00F5FF?style=for-the-badge&labelColor=080B10" alt="Software developer"/>
-<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=080B10" alt="Online"/>
-<img src="https://img.shields.io/badge/FOCUS-BUILDING-BC13FE?style=for-the-badge&labelColor=080B10" alt="Building software"/>
+<a href="https://github.com/amiralisetareh?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE-00F5FF?style=for-the-badge&labelColor=080B10" alt="Projects"/></a>
+<a href="https://github.com/amiralisetareh?tab=stars"><img src="https://img.shields.io/badge/INTERESTS-OPEN%20SOURCE-BC13FE?style=for-the-badge&labelColor=080B10" alt="Open source"/></a>
+<a href="https://t.me/amiralisetaree"><img src="https://img.shields.io/badge/TELEGRAM-CONNECT-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=080B10" alt="Telegram"/></a>
 
 </div>
 
 ---
 
-## `01 // ABOUT ME`
+## `01 // IDENTITY`
 
 ```text
 USER       : AMIRALI SETAREH
-ROLE       : SOFTWARE DEVELOPER
-ENVIRONMENT: DIGITAL
-MODE       : BUILD / EXPLORE / IMPROVE
+ROLE       : DEVELOPER / BUILDER
+INTERESTS  : AI / ROBOTICS / SOFTWARE / SYSTEMS
+CURRENTLY  : BUILDING DIGITAL PRODUCTS
+PHILOSOPHY : LEARN -> BUILD -> TEST -> IMPROVE
 ```
 
-I'm a software developer interested in building useful software,
-exploring technology, and turning ideas into working projects.
+I'm an aspiring software developer interested in artificial intelligence, robotics, software engineering, and the systems that power modern technology.
 
-- Building and improving software projects.
-- Exploring tools, technologies, and development workflows.
-- Interested in clean implementations and thoughtful engineering.
-- Open to learning from and contributing to the developer community.
+I enjoy turning ideas into practical projects, experimenting with new tools, and building digital experiences that combine engineering with thoughtful design.
 
-> Ideas become systems when curiosity meets engineering.
+My goal is to develop the skills to build increasingly capable software systems, contribute to meaningful projects, and explore the intersection of AI, automation, and technology.
 
----
+- Building and improving independent software projects.
+- Exploring AI, robotics, automation, and intelligent systems.
+- Developing web-based platforms and digital products.
+- Learning software architecture, security, and engineering practices.
+- Interested in Linux, open source, and the future of computing.
 
-## `02 // TECH STACK`
-
-<!--
-Add only the technologies you actually use.
-Uncomment the badges you want to display.
--->
-
-<!--
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Python"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF" alt="Docker"/>
--->
-
-**Add your real stack above:** enable the badges for the languages, frameworks, and tools you use.
+> Curiosity is the input. Engineering is the process.
 
 ---
 
-## `03 // GITHUB TELEMETRY`
+## `02 // CURRENT PROJECTS`
+
+<div align="center">
+
+<a href="https://github.com/amiralisetareh/Trapfarsi">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=amiralisetareh&repo=Trapfarsi&hide_border=true&bg_color=080B10&title_color=00F5FF&text_color=C9D1D9&icon_color=BC13FE" alt="TRAPFARSI repository card"/>
+</a>
+
+</div>
+
+### `01. TRAPFARSI`
+
+**An independent music-platform project.**
+
+TRAPFARSI is my project to build a modern music discovery and listening experience with its own identity, interface, and community features.
+
+Current product direction includes:
+
+- Music discovery and new releases.
+- Artists, albums, search, and personal library.
+- Now Playing and playback queue interfaces.
+- Listener rewards and trophy features.
+- A distinctive visual identity inspired by modern digital products and music culture.
+
+[Explore the source code](https://github.com/amiralisetareh/Trapfarsi) · [Open the live demo](https://wolblack.github.io/Trapfarsi/)
+
+### `02. PANELVERSE NETWORK`
+
+**An archive. Multiple worlds.**
+
+PanelVerse is a digital media archive concept connecting comics, manga, anime, animation, and related media through a unified network.
+
+The project focuses on content organization, discoverability, community access, and building a connected archive experience.
+
+- Comics and graphic storytelling.
+- Manga and Japanese media.
+- Anime and animation.
+- Telegram-based content channels and archive tools.
+
+**Explore the network:**
+
+- [PanelVerse HQ](https://t.me/panelverseHQ)
+- [PanelVerse Comics](https://t.me/panelversecomic)
+- [PanelVerse Manga](https://t.me/panelversemanga)
+- [PanelVerse Anime & Animation](https://t.me/Panelverseanimatoon)
+- [PanelVerse Archive Bot](https://t.me/Panelverseaibot)
+
+### `03. EXPERIMENTAL SOFTWARE`
+
+I also explore independent tools, automation, bots, and digital product concepts.
+
+My broader interests include:
+
+- AI-assisted workflows and intelligent automation.
+- Telegram bots and mini-app experiences.
+- Linux, networking, and computer systems.
+- Interface design and modern web applications.
+- Robotics and practical applications of AI.
+
+More projects and experiments are available in my repositories.
+
+<a href="https://github.com/amiralisetareh?tab=repositories"><img src="https://img.shields.io/badge/VIEW-ALL%20REPOSITORIES-00F5FF?style=for-the-badge&labelColor=080B10" alt="View all repositories"/></a>
+
+---
+
+## `03 // TECHNOLOGY & TOOLS`
+
+**Languages and development**
+
+<img src="https://skillicons.dev/icons?i=js,python,html,css" alt="JavaScript, Python, HTML, and CSS"/>
+
+**Frameworks and platforms**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,git,github" alt="React, Next.js, Node.js, Git, and GitHub"/>
+
+**Systems and development environment**
+
+<img src="https://skillicons.dev/icons?i=linux,bash,vscode" alt="Linux, Bash, and Visual Studio Code"/>
+
+These represent technologies used or explored in my development work, not a claim of equal proficiency in every tool.
+
+---
+
+## `04 // GITHUB TELEMETRY`
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amiralisetareh&show_icons=true&hide_border=true&bg_color=080B10&title_color=00F5FF&icon_color=39FF14&text_color=C9D1D9&ring_color=BC13FE" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiralisetareh&layout=compact&hide_border=true&bg_color=080B10&title_color=00F5FF&text_color=C9D1D9" alt="Most-used programming languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiralisetareh&layout=compact&hide_border=true&bg_color=080B10&title_color=00F5FF&text_color=C9D1D9&langs_count=8" alt="Most-used programming languages"/>
 
 <br/><br/>
 
@@ -81,54 +142,50 @@ Uncomment the badges you want to display.
 
 ---
 
-## `04 // CONTRIBUTION ACTIVITY`
+## `05 // CONTRIBUTION ACTIVITY`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amiralisetareh&bg_color=080B10&color=C9D1D9&line=00F5FF&point=39FF14&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amiralisetareh&bg_color=080B10&color=C9D1D9&line=00F5FF&point=39FF14&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%" alt="GitHub contribution activity"/>
 
 </div>
 
 ---
 
-## `05 // FEATURED PROJECTS`
+## `06 // BEYOND THE CODE`
 
-<!-- Replace these examples with real repositories you want to showcase. -->
+My interests extend beyond writing software.
 
-<div align="center">
+- **Artificial intelligence:** intelligent systems, machine learning, and automation.
+- **Robotics:** the connection between software, electronics, and the physical world.
+- **Computer systems:** operating systems, Linux, networking, and security.
+- **Digital culture:** music platforms, creative technology, and online communities.
+- **Engineering:** understanding how things work, solving problems, and improving implementations.
 
-<a href="https://github.com/amiralisetareh?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-00F5FF?style=for-the-badge&labelColor=080B10" alt="Explore all repositories"/>
-</a>
-
-</div>
-
-Choose up to three repositories to feature here:
-
-- **Project One** — project description and what it does.
-- **Project Two** — technologies used and the problem it solves.
-- **Project Three** — a notable feature or engineering challenge.
-
-Replace these placeholders with your actual projects before publishing.
+I believe the best way to learn technology is to understand its foundations, build real things, and keep improving through practical experience.
 
 ---
 
-## `06 // CONNECT`
+## `07 // CONNECT`
 
 <div align="center">
+
+<a href="https://github.com/amiralisetareh"><img src="https://img.shields.io/badge/GITHUB-FOLLOW%20MY%20WORK-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://t.me/amiralisetaree"><img src="https://img.shields.io/badge/TELEGRAM-AMIRALI-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://github.com/amiralisetareh?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20SOURCE-EXPLORE-BC13FE?style=for-the-badge&labelColor=080B10" alt="Open-source projects"/></a>
+
+<br/><br/>
 
 <a href="https://github.com/amiralisetareh">
-  <img src="https://img.shields.io/badge/GITHUB-FOLLOW%20THE%20WORK-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile"/>
+<img src="https://komarev.com/ghpvc/?username=amiralisetareh&style=flat-square&color=00F5FF&label=PROFILE+VISITORS" alt="Profile visitors"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/SYSTEM-OPERATIONAL-39FF14?style=flat-square&labelColor=080B10" alt="System operational"/>
-
 **BUILD SOMETHING MEANINGFUL.**
 
-<sub>Curiosity is the input. Engineering is the process.</sub>
+<sub>Learn continuously. Build deliberately. Engineer the future.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:101827,100:050505&height=100&section=footer" width="100%" alt="Cyberpunk footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:101827,100:050505&height=100&section=footer" width="100%" alt="Profile footer"/>
 
 </div>
