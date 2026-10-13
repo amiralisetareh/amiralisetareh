@@ -1,96 +1,134 @@
-# Hi, I'm Amirali Setare 👋
 
-### Software Developer | Python · Web Development · Automation
+<!--
+  AMIRALI SETAREH — CYBERPUNK GITHUB PROFILE
+  Replace optional placeholders before publishing.
+-->
 
-I build practical software, modern web experiences, and automation tools. I enjoy solving problems, exploring new technologies, and turning ideas into clean, maintainable applications.
+<div align="center">
 
-<p align="left">
-  <a href="https://github.com/Amiralisetare">
-    <img src="https://img.shields.io/badge/GitHub-Amiralisetare-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-  <a href="https://amiralisetare.me">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-111827?style=for-the-badge&logo=googlechrome&logoColor=60A5FA" alt="Portfolio" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:101827,100:00F5FF&height=220&section=header&text=AMIRALI%20SETAREH&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%2F%2F%20SYSTEM%20ONLINE&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="Cyberpunk profile banner"/>
 
----
+<a href="https://github.com/amiralisetareh">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=SOFTWARE+DEVELOPER;BUILDING+IDEAS+INTO+SOFTWARE;EXPLORING+TECHNOLOGY+%26+OPEN+SOURCE;SYSTEM+STATUS%3A+ONLINE" alt="Animated developer introduction"/>
+</a>
 
-## 🛠️ Tech Stack
+<br/>
 
-### Languages
+<img src="https://img.shields.io/badge/ROLE-SOFTWARE%20DEVELOPER-00F5FF?style=for-the-badge&labelColor=080B10" alt="Software developer"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=080B10" alt="Online"/>
+<img src="https://img.shields.io/badge/FOCUS-BUILDING-BC13FE?style=for-the-badge&labelColor=080B10" alt="Building software"/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-17263B?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-17263B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-17263B?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-17263B?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
-</p>
-
-### Platforms & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/WordPress-17263B?style=for-the-badge&logo=wordpress&logoColor=FFFFFF" alt="WordPress" />
-  <img src="https://img.shields.io/badge/WooCommerce-17263B?style=for-the-badge&logo=woocommerce&logoColor=96588A" alt="WooCommerce" />
-  <img src="https://img.shields.io/badge/Git-17263B?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-17263B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-17263B?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## `01 // ABOUT ME`
 
-### 🌐 Panelverse
+```text
+USER       : AMIRALI SETAREH
+ROLE       : SOFTWARE DEVELOPER
+ENVIRONMENT: DIGITAL
+MODE       : BUILD / EXPLORE / IMPROVE
+```
 
-**Web Development · E-commerce**
+I'm a software developer interested in building useful software,
+exploring technology, and turning ideas into working projects.
 
-A project focused on creating modern digital experiences and exploring online commerce.
+- Building and improving software projects.
+- Exploring tools, technologies, and development workflows.
+- Interested in clean implementations and thoughtful engineering.
+- Open to learning from and contributing to the developer community.
 
-- WordPress and WooCommerce development
-- Responsive interfaces and frontend customization
-- E-commerce design and usability
-
-[Explore my repositories →](https://github.com/Amiralisetare?tab=repositories)
-
-### 🐍 Python & Telegram Bots
-
-**Python · Automation · APIs**
-
-Personal projects exploring Python applications, Telegram bots, and automation tools.
-
-- Telegram bot development
-- API integrations and automation
-- Maintainable application structure
-
-[Explore my repositories →](https://github.com/Amiralisetare?tab=repositories)
+> Ideas become systems when curiosity meets engineering.
 
 ---
 
-## 💡 Development Principles
+## `02 // TECH STACK`
 
-- **Clean code:** Build readable and maintainable software.
-- **Problem-solving:** Turn ideas into practical solutions.
-- **User experience:** Value clarity, usability, and reliability.
-- **Continuous learning:** Improve through building and experimentation.
+<!--
+Add only the technologies you actually use.
+Uncomment the badges you want to display.
+-->
 
----
+<!--
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Python"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF" alt="Docker"/>
+-->
 
-## 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://github.com/Amiralisetare">
-    <img src="https://img.shields.io/badge/GitHub-Profile-17263B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://amiralisetare.me">
-    <img src="https://img.shields.io/badge/Website-amiralisetare.me-17263B?style=for-the-badge&logo=googlechrome&logoColor=60A5FA" alt="Website" />
-  </a>
-  <a href="mailto:amiralisetare@proton.me">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-17263B?style=for-the-badge&logo=protonmail&logoColor=8B89CC" alt="Email" />
-  </a>
-</p>
+**Add your real stack above:** enable the badges for the languages, frameworks, and tools you use.
 
 ---
 
-<p align="center">
-  <i>Building with purpose. Learning through practice. Improving with every project.</i>
-</p>
+## `03 // GITHUB TELEMETRY`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amiralisetareh&show_icons=true&hide_border=true&bg_color=080B10&title_color=00F5FF&icon_color=39FF14&text_color=C9D1D9&ring_color=BC13FE" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiralisetareh&layout=compact&hide_border=true&bg_color=080B10&title_color=00F5FF&text_color=C9D1D9" alt="Most-used programming languages"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=amiralisetareh&hide_border=true&background=080B10&ring=00F5FF&fire=BC13FE&currStreakLabel=39FF14&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## `04 // CONTRIBUTION ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amiralisetareh&bg_color=080B10&color=C9D1D9&line=00F5FF&point=39FF14&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+## `05 // FEATURED PROJECTS`
+
+<!-- Replace these examples with real repositories you want to showcase. -->
+
+<div align="center">
+
+<a href="https://github.com/amiralisetareh?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-00F5FF?style=for-the-badge&labelColor=080B10" alt="Explore all repositories"/>
+</a>
+
+</div>
+
+Choose up to three repositories to feature here:
+
+- **Project One** — project description and what it does.
+- **Project Two** — technologies used and the problem it solves.
+- **Project Three** — a notable feature or engineering challenge.
+
+Replace these placeholders with your actual projects before publishing.
+
+---
+
+## `06 // CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/amiralisetareh">
+  <img src="https://img.shields.io/badge/GITHUB-FOLLOW%20THE%20WORK-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SYSTEM-OPERATIONAL-39FF14?style=flat-square&labelColor=080B10" alt="System operational"/>
+
+**BUILD SOMETHING MEANINGFUL.**
+
+<sub>Curiosity is the input. Engineering is the process.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:101827,100:050505&height=100&section=footer" width="100%" alt="Cyberpunk footer"/>
+
+</div>
