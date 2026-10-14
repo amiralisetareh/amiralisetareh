@@ -1,191 +1,120 @@
- 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:101827,100:00F5FF&height=220&section=header&text=AMIRALI%20SETAREH&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER%20%2F%2F%20AI%20%2F%2F%20SYSTEMS%20%2F%2F%20BUILDING%20THE%20FUTURE&descSize=12&descAlignY=58&animation=fadeIn" width="100%" alt="Amirali Setareh — Developer Profile"/>
-
-<a href="https://github.com/amiralisetareh">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=SOFTWARE+DEVELOPMENT;BUILDING+TRAPFARSI;EXPLORING+AI+%26+ROBOTICS;DESIGNING+DIGITAL+WORLDS;LEARN.+BUILD.+ITERATE." alt="Developer introduction"/>
-</a>
-
+ <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:101827,100:00F5FF&height=200&section=header&text=AMIRALI%20SETAREH&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER%20%2F%2F%20AI%20%2F%2F%20ROBOTICS%20%2F%2F%20SYSTEMS&descSize=12&descAlignY=60&animation=fadeIn" width="100%" alt="Amirali Setareh"/>
 <br/>
-
-<a href="https://github.com/amiralisetareh?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE-00F5FF?style=for-the-badge&labelColor=080B10" alt="Projects"/></a>
-<a href="https://github.com/amiralisetareh?tab=stars"><img src="https://img.shields.io/badge/INTERESTS-OPEN%20SOURCE-BC13FE?style=for-the-badge&labelColor=080B10" alt="Open source"/></a>
-<a href="https://t.me/amiralisetaree"><img src="https://img.shields.io/badge/TELEGRAM-CONNECT-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=080B10" alt="Telegram"/></a>
-
 </div>
 
----
+⸻
 
-## `01 // IDENTITY`
+01 // ABOUT
 
-```text
-USER       : AMIRALI SETAREH
-ROLE       : DEVELOPER / BUILDER
-INTERESTS  : AI / ROBOTICS / SOFTWARE / SYSTEMS
-CURRENTLY  : BUILDING DIGITAL PRODUCTS
+IDENTITY   : AMIRALI SETAREH
+FOCUS      : SOFTWARE / AI / ROBOTICS
+BUILDING   : DIGITAL PRODUCTS & SYSTEMS
 PHILOSOPHY : LEARN -> BUILD -> TEST -> IMPROVE
-```
 
-I'm an aspiring software developer interested in artificial intelligence, robotics, software engineering, and the systems that power modern technology.
+I’m an aspiring software developer interested in artificial intelligence, robotics, software engineering, and computer systems.
 
-I enjoy turning ideas into practical projects, experimenting with new tools, and building digital experiences that combine engineering with thoughtful design.
+I build independent projects to turn ideas into practical products, explore new technologies, and develop my engineering skills.
 
-My goal is to develop the skills to build increasingly capable software systems, contribute to meaningful projects, and explore the intersection of AI, automation, and technology.
+* Software development and web applications
+* Artificial intelligence and robotics
+* Linux, networking, and computer systems
+* Automation, open source, and digital product design
 
-- Building and improving independent software projects.
-- Exploring AI, robotics, automation, and intelligent systems.
-- Developing web-based platforms and digital products.
-- Learning software architecture, security, and engineering practices.
-- Interested in Linux, open source, and the future of computing.
+Curiosity is the input. Engineering is the process.
 
-> Curiosity is the input. Engineering is the process.
+⸻
 
----
-
-## `02 // CURRENT PROJECTS`
+02 // PROJECTS
 
 <div align="center">
-
 <a href="https://github.com/amiralisetareh/Trapfarsi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amiralisetareh&repo=Trapfarsi&hide_border=true&bg_color=080B10&title_color=00F5FF&text_color=C9D1D9&icon_color=BC13FE" alt="TRAPFARSI repository card"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=amiralisetareh&repo=Trapfarsi&hide_border=true&bg_color=080B10&title_color=00F5FF&text_color=C9D1D9&icon_color=BC13FE" alt="TRAPFARSI repository"/>
 </a>
-
 </div>
 
-### `01. TRAPFARSI`
+TRAPFARSI
 
-**An independent music-platform project.**
+An independent music-platform project focused on music discovery, listening experiences, community features, and a distinctive interface.
 
-TRAPFARSI is my project to build a modern music discovery and listening experience with its own identity, interface, and community features.
+Source code · Live demo
 
-Current product direction includes:
+PANELVERSE NETWORK
 
-- Music discovery and new releases.
-- Artists, albums, search, and personal library.
-- Now Playing and playback queue interfaces.
-- Listener rewards and trophy features.
-- A distinctive visual identity inspired by modern digital products and music culture.
+An archive connecting comics, manga, anime, animation, and digital media through a network of content channels and archive tools.
 
-[Explore the source code](https://github.com/amiralisetareh/Trapfarsi) · [Open the live demo](https://wolblack.github.io/Trapfarsi/)
+* PanelVerse HQ
+* Comics
+* Manga
+* Anime & Animation
+* Archive Bot
 
-### `02. PANELVERSE NETWORK`
+Explore all my repositories
 
-**An archive. Multiple worlds.**
+⸻
 
-PanelVerse is a digital media archive concept connecting comics, manga, anime, animation, and related media through a unified network.
+03 // TECHNOLOGY
 
-The project focuses on content organization, discoverability, community access, and building a connected archive experience.
+Languages
 
-- Comics and graphic storytelling.
-- Manga and Japanese media.
-- Anime and animation.
-- Telegram-based content channels and archive tools.
+<img src="https://skillicons.dev/icons?i=js,python,html,css" alt="JavaScript, Python, HTML, CSS"/>
 
-**Explore the network:**
+Development tools
 
-- [PanelVerse HQ](https://t.me/panelverseHQ)
-- [PanelVerse Comics](https://t.me/panelversecomic)
-- [PanelVerse Manga](https://t.me/panelversemanga)
-- [PanelVerse Anime & Animation](https://t.me/Panelverseanimatoon)
-- [PanelVerse Archive Bot](https://t.me/Panelverseaibot)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bash" alt="Git, GitHub, VS Code, Bash"/>
 
-### `03. EXPERIMENTAL SOFTWARE`
+Systems and platforms
 
-I also explore independent tools, automation, bots, and digital product concepts.
+<img src="https://skillicons.dev/icons?i=linux,nodejs,react,nextjs" alt="Linux, Node.js, React, Next.js"/>
 
-My broader interests include:
+Technologies shown represent tools I use or explore, not equal proficiency in every technology.
 
-- AI-assisted workflows and intelligent automation.
-- Telegram bots and mini-app experiences.
-- Linux, networking, and computer systems.
-- Interface design and modern web applications.
-- Robotics and practical applications of AI.
+⸻
 
-More projects and experiments are available in my repositories.
-
-<a href="https://github.com/amiralisetareh?tab=repositories"><img src="https://img.shields.io/badge/VIEW-ALL%20REPOSITORIES-00F5FF?style=for-the-badge&labelColor=080B10" alt="View all repositories"/></a>
-
----
-
-## `03 // TECHNOLOGY & TOOLS`
-
-**Languages and development**
-
-<img src="https://skillicons.dev/icons?i=js,python,html,css" alt="JavaScript, Python, HTML, and CSS"/>
-
-**Frameworks and platforms**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,git,github" alt="React, Next.js, Node.js, Git, and GitHub"/>
-
-**Systems and development environment**
-
-<img src="https://skillicons.dev/icons?i=linux,bash,vscode" alt="Linux, Bash, and Visual Studio Code"/>
-
-These represent technologies used or explored in my development work, not a claim of equal proficiency in every tool.
-
----
-
-## `04 // GITHUB TELEMETRY`
+04 // GITHUB STATISTICS
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amiralisetareh&show_icons=true&hide_border=true&bg_color=080B10&title_color=00F5FF&icon_color=39FF14&text_color=C9D1D9&ring_color=BC13FE" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiralisetareh&layout=compact&hide_border=true&bg_color=080B10&title_color=00F5FF&text_color=C9D1D9&langs_count=8" alt="Most-used programming languages"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=amiralisetareh&hide_border=true&background=080B10&ring=00F5FF&fire=BC13FE&currStreakLabel=39FF14&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" alt="GitHub contribution streak"/>
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amiralisetareh&show_icons=true&hide_border=true&bg_color=080B10&title_color=00F5FF&icon_color=39FF14&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiralisetareh&layout=compact&hide_border=true&bg_color=080B10&title_color=00F5FF&text_color=C9D1D9&langs_count=6" alt="Most-used languages"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=amiralisetareh&bg_color=080B10&color=C9D1D9&line=00F5FF&point=39FF14&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Contribution activity"/>
 </div>
 
----
+⸻
 
-## `05 // CONTRIBUTION ACTIVITY`
+05 // GIVE BACK
+
+Support the Project. Help a Child.
+
+If my projects have been useful to you, consider turning that value into something meaningful.
+
+Help children fighting cancer.
+
+My goal is to support children with cancer through charitable donations, particularly to MAHAK, an Iranian organization supporting children with cancer and their families.
+
+You can help in three ways:
+
+* Donate to MAHAK: Visit the official MAHAK website to find its donation options.
+* Donate locally: Support a reputable childhood-cancer charity in your own country.
+* Share my work: Help these projects reach more people.
+
+Every contribution is voluntary. You do not need to donate to use my projects.
+
+My commitment: I want the value created through technology to extend beyond code and contribute to something that matters in the real world.
+
+This is an independent charitable initiative, not an official MAHAK campaign. Donations made directly to charities are not collected by me. If I organize a separate collection in the future, I intend to publish transparent records of the amounts collected and donated.
+
+⸻
+
+06 // CONNECT
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amiralisetareh&bg_color=080B10&color=C9D1D9&line=00F5FF&point=39FF14&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%" alt="GitHub contribution activity"/>
-
-</div>
-
----
-
-## `06 // BEYOND THE CODE`
-
-My interests extend beyond writing software.
-
-- **Artificial intelligence:** intelligent systems, machine learning, and automation.
-- **Robotics:** the connection between software, electronics, and the physical world.
-- **Computer systems:** operating systems, Linux, networking, and security.
-- **Digital culture:** music platforms, creative technology, and online communities.
-- **Engineering:** understanding how things work, solving problems, and improving implementations.
-
-I believe the best way to learn technology is to understand its foundations, build real things, and keep improving through practical experience.
-
----
-
-## `07 // CONNECT`
-
-<div align="center">
-
-<a href="https://github.com/amiralisetareh"><img src="https://img.shields.io/badge/GITHUB-FOLLOW%20MY%20WORK-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://t.me/amiralisetaree"><img src="https://img.shields.io/badge/TELEGRAM-AMIRALI-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="https://github.com/amiralisetareh?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20SOURCE-EXPLORE-BC13FE?style=for-the-badge&labelColor=080B10" alt="Open-source projects"/></a>
-
-<br/><br/>
-
 <a href="https://github.com/amiralisetareh">
 <img src="https://komarev.com/ghpvc/?username=amiralisetareh&style=flat-square&color=00F5FF&label=PROFILE+VISITORS" alt="Profile visitors"/>
 </a>
 
-<br/><br/>
+BUILD SOMETHING MEANINGFUL.
 
-**BUILD SOMETHING MEANINGFUL.**
-
-<sub>Learn continuously. Build deliberately. Engineer the future.</sub>
+Learn continuously. Build deliberately. Engineer the future.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:101827,100:050505&height=100&section=footer" width="100%" alt="Profile footer"/>
-
 </div>
