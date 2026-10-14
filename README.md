@@ -1,36 +1,33 @@
-
-⸻
+# 💛 Support Children with Cancer | حمایت از کودکان مبتلا به سرطان
 
 <div align="center">
 
-💛 A Little Kindness Can Change a Life
+### A Little Kindness Can Change a Life
 
-Not every contribution needs to be big to make a difference.
+If you appreciate my work, consider turning that appreciation into hope for a child fighting cancer. You can support children with cancer by donating through MAHAK's official channels, or help a trusted local cancer charity in your country.
 
-If you appreciate my work, consider turning that appreciation into hope for a child fighting cancer. Your donation can help support children and families facing one of life’s hardest battles.
+<a href="https://mahak-charity.org/">
+  <img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%20SUPPORT%20MAHAK-HELP%20CHILDREN-00A99D?style=for-the-badge" alt="Support MAHAK and help children"/>
+</a>
 
-You don’t need to donate to me. Help a child instead.
+**[Visit MAHAK's official website to find donation options](https://mahak-charity.org/)**
 
-Click here to visit MAHAK’s official website and find donation options
+---
 
-⸻
+### مهربانی تو می‌تواند زندگی‌ای را تغییر دهد
 
-💛 مهربانی تو می‌تواند زندگی‌ای را تغییر دهد
+اگر از پروژه‌های من خوشت آمده، می‌توانی با حمایت از کودکانی که با سرطان مبارزه می‌کنند، این ارزش را به کاری انسانی تبدیل کنی. از طریق راه‌های رسمی محک کمک کن یا اگر خارج از ایران هستی، یک مؤسسه معتبر حمایت از کودکان مبتلا به سرطان را در کشور خودت انتخاب کن.
 
-برای کمک کردن، لازم نیست مبلغ زیادی داشته باشی؛ گاهی یک قدم کوچک می‌تواند امید بزرگی بسازد.
+<a href="https://mahak-charity.org/">
+  <img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%20%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%20%D8%A7%D8%B2%20%D9%85%D8%AD%DA%A9-%DA%A9%D9%85%DA%A9%20%D8%A8%D9%87%20%DA%A9%D9%88%D8%AF%DA%A9%D8%A7%D9%86-00A99D?style=for-the-badge" alt="حمایت از محک و کمک به کودکان"/>
+</a>
 
-اگر از پروژه‌های من استفاده کرده‌ای و از آن‌ها خوشت آمده، می‌توانی به جای حمایت مالی از من، به کودکانی کمک کنی که با سرطان مبارزه می‌کنند.
+**[ورود به وب‌سایت رسمی محک و مشاهده راه‌های کمک مالی](https://mahak-charity.org/)**
 
-لازم نیست به من کمک کنی؛ بیا به کودکی کمک کنیم.
+*Every contribution matters. | هر کمک، هرچند کوچک، ارزشمند است.*
 
-برای مشاهده راه‌های کمک مالی، وارد وب‌سایت رسمی محک شوید
+<sub>This is an independent charitable message, not an official MAHAK campaign. Please use verified donation methods published by the organization.</sub>
 
-Every act of kindness matters. | هر قدم مهربانانه ارزشمند است.
+<sub>این پیام یک دعوت مستقل به کار خیر است و کمپین رسمی محک محسوب نمی‌شود. لطفاً از روش‌های کمک مالی معتبر و اعلام‌شده توسط خود مؤسسه استفاده کنید.</sub>
 
-</div>If you appreciate my work, consider making a difference in a child’s life. You can donate to MAHAK, an Iranian charity supporting children with cancer, or support a trusted local cancer charity in your country.
-
-اگر از پروژه‌های من خوشتان آمده، می‌توانید با حمایت از کودکان مبتلا به سرطان، تغییری واقعی در زندگی آن‌ها ایجاد کنید. می‌توانید به محک، مؤسسه حمایت از کودکان مبتلا به سرطان در ایران، یا یک مؤسسه خیریه معتبر در کشور خود کمک کنید.
-
-💛 Donate to MAHAK | حمایت از محک
-
-Every contribution matters. | هر کمک، هرچند کوچک، ارزشمند است.
+</div>
